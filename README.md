@@ -201,13 +201,7 @@ MongoDB Atlas est utilisé pour stocker les informations des capteurs, les mesur
 
 **Figure 1 — Tableau de bord MongoDB Atlas**
 
-
-
-![MongoDB Atlas](docs/images/mongodb-atlas.png)
-
-**Figure 2 — Base de données et collections**
-
-![Collections MongoDB](docs/images/mongodb-collections.png)
+ 
 
 ## 7. Configuration du broker MQTT EMQX
 
@@ -224,15 +218,10 @@ EMQX est utilisé comme broker MQTT pour assurer la communication entre l'ESP32 
 7. Ajouter les paramètres de connexion dans le fichier `.env`.
 8. Vérifier la connexion du serveur Node.js au broker.
 
-### Captures d'écran EMQX
+<img width="1353" height="672" alt="image" src="https://github.com/user-attachments/assets/9dc693af-cc55-4a92-806d-73688554b89b" />
 
 **Figure 3 — Tableau de bord EMQX**
 
-![EMQX Dashboard](docs/images/emqx-dashboard.png)
-
-**Figure 4 — Connexions MQTT**
-
-![EMQX Connections](docs/images/emqx-connections.png)
 
 ## 8. Émulation de la carte ESP32 avec Velxio
 
@@ -318,9 +307,8 @@ Une fois la simulation lancée :
 
 **Figure 5 — Simulateur ESP32 avec Velxio**
 
-![Simulation ESP32](docs/images/esp32-simulator.png)
+ <img width="1356" height="675" alt="image" src="https://github.com/user-attachments/assets/178859d8-c2da-4990-95ff-2b81064d5744" />
 
-## 9. Accéder au tableau de bord de supervision
 
 Le tableau de bord permet de suivre les données des capteurs et de visualiser les informations en temps réel.
 
@@ -342,7 +330,8 @@ Cette adresse suppose que le serveur Express distribue les fichiers du tableau d
 
 **Figure 6 — Tableau de bord de supervision**
 
-![Application de supervision](docs/images/supervision-dashboard.png)
+<img width="1327" height="636" alt="image" src="https://github.com/user-attachments/assets/61ab87a3-1a2f-4928-808a-7cee7d4acda1" />
+
 
 ## 10. Tester l'API avec Thunder Client
 
