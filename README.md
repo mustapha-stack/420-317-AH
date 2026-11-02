@@ -197,9 +197,11 @@ MongoDB Atlas est utilisé pour stocker les informations des capteurs, les mesur
 7. Récupérer l'URI de connexion MongoDB.
 8. Ajouter cette URI dans le fichier `.env`.
 
-### Captures d'écran MongoDB Atlas
+<img width="1333" height="671" alt="image" src="https://github.com/user-attachments/assets/35db7ae3-3dde-4502-8777-123c81ef81ef" />
 
 **Figure 1 — Tableau de bord MongoDB Atlas**
+
+
 
 ![MongoDB Atlas](docs/images/mongodb-atlas.png)
 
